@@ -1,0 +1,32 @@
+{
+  "name": "tray-integration-marketplace-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "jwt": "node ./utils/jwt.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "classnames": "^2.3.1",
+    "color": "^4.2.3",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "next": "12.1.0",
+    "node-rsa": "^1.1.1",
+    "npm": "^8.5.5",
+    "pluralize": "^8.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swr": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "8.11.0",
+    "eslint-config-next": "12.1.0"
+  }
+}
