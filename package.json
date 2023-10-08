@@ -17,7 +17,7 @@
     "graphql-request": "^4.2.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
-    "next": "12.1.0",
+    "next": "13.5.4",
     "node-rsa": "^1.1.1",
     "npm": "^8.5.5",
     "pluralize": "^8.0.0",
